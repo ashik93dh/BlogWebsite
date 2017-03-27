@@ -1,0 +1,11 @@
+not work feed:
+1:http://feeds.feedburner.com/DailySangram?format=xml  note :&1lodeqe
+2:http://www.thereport24.com/rss/rss.xml no-prob.
+3:http://feeds.reuters.com/Reuters/worldNews
+
+
+not find rss feed in below newspaper:
+1.prothom-alo.com
+2.hosted.ap.org
+3.www.cnn.com
+4.www.foxnews.com

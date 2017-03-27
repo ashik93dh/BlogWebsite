@@ -1,0 +1,30 @@
+/*rss_css new about and faq*/
+#page_about-us > h1 {
+    font-family: lato-bold;
+    font-size: 25px;
+    text-transform: uppercase; 
+}
+
+#page_about-us h2 {
+    margin-top: 20px;
+}
+#page_about-us > p {
+    color: #494949;
+    font-size: 25px;
+    line-height: 35px;
+    margin: 3% 0 0;
+}
+#page_help h2{ font-family: lato-regular;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 2%;
+    text-transform: uppercase;}
+#page_help p{  font-family: lato-regular;
+    font-size: 14px;
+    margin-bottom: 2%;}
+	
+#page_help li{ background: url("../images/p-li-bg.png") no-repeat scroll left 5px rgba(0, 0, 0, 0);
+    font-family: lato-regular;
+    font-size: 14px;
+    padding-bottom: 2%;
+    padding-left: 4%;}
